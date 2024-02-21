@@ -1,0 +1,31 @@
+{
+    "java.project.referencedLibraries":
+    [
+        "lib/fastjson-1.2.83.jar",
+        "lib/mysql-connector-java-8.0.30.jar"
+    ],
+    "kunpeng.remote.ssh.machineinfo": [],
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "kunpeng.func",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.intrinsics",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.builtIn",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            }
+        ]
+    },
+    "kunpeng.remote.ssh.clientpath": "C:\\Windows\\System32\\OpenSSH\\ssh.exe"
+}
